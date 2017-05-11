@@ -1,0 +1,1 @@
+stn1-d1-bulk-ara,stn1-d1-bulk-fuc,stn1-d2-bulk-pul,stn2-d1-bulk-ara,stn2-d1-bulk-fuc,stn2-d2-bulk-pul,stn3-d1-bulk-ara,stn3-d1-bulk-fuc,stn3-d2-bulk-pul,stn4-d1-bulk-ara,stn4-d1-bulk-fuc,stn4-d2-bulk-ara
